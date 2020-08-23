@@ -1,5 +1,5 @@
 #convertit nombre approximé (réel flottant) en valeur exacte (rationnel)
-#programmé par Alex-Pauline Poudade (AlexPoudade@live.fr) 08/03/2020
+#programmé par Alex-Pauline Poudade (AlexPauline.Poudade@free.fr) 08/03/2020
 
 def pgcd (a,b):
     while b!=0:
